@@ -1,8 +1,8 @@
 ### react-to-do
 
-*React to-do list app using local data for practicing. 
-*Uses multiple react components. 
-*Uses Typescript for strong type checking. 
+* React to-do list app using local data for practicing.
+* Uses multiple react components.
+* Uses Typescript for strong type checking.
 
 
 
